@@ -25,11 +25,11 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Structure Quiz, Problem 3]
-- Question (mphan12-stat660): Is the requirement to complete 12 of 15 weekly quizzes to allow people to "slack off" at the end of the quarter, or is it to accommodate students enrolling in the course late, or both?
+- Question (mphan12-stat660): Are quiz questions typically multiple choice and fill in missing words?
 
 
 [Course Structure Quiz, Problem 4]
-- Question (mphan12-stat660): Are students assigned to a team?  How many students are assigned to a team?  
+- Question (mphan12-stat660): How are teams selected?  
 
 
 [Course Structure Quiz, Problem 5]
@@ -37,11 +37,11 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Structure Quiz, Problem 6]
-- Question (mphan12-stat660): In the past, what percentage of students get A+?
+- Question (mphan12-stat660): In the past, what percentage of students get A+ inthis course?
 
 
 [Course Structure Quiz, Problem 7]
-- Question (mphan12-stat660): What's the intention of encouraging resubmission of incomplete assignments? 
+- Question (mphan12-stat660): Is there a limit in resubmitting incomplete assignments by a student? 
 
 
 [Course Structure Quiz, Problem 8]
@@ -49,11 +49,11 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Structure Quiz, Problem 9]
-- Question (mphan12-stat660): Can we still email you at isaiah.lankham@csueastbay.edu?  Is your response time slower than Slack?
+- Question (mphan12-stat660): Can we still email you at isaiah.lankham@csueastbay.edu?  
 - Answer (mphan12-stat660): Yes
 
 [Course Structure Quiz, Problem 10]
-- Question (mphan12-stat660): What does it mean to check GitHub daily?
+- Question (mphan12-stat660): Why is it necessary to check GitHub daily?
 
 
 [hello_world Week 1 SAS Recipe]
