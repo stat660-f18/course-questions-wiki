@@ -18,16 +18,19 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Structure Quiz, Problem 1]
 Question (mphan12-stat660): When posting screenshots, should we screenshot the entire desktop or only relevant snap-its of our screen?
+Answer: 
 
 
 
 [Course Structure Quiz, Problem 2]
 Question (mphan12-stat660): Can students quote articles from websites that are not listed?
+Answer: 
 
 
 
 [Course Structure Quiz, Problem 3]
 Question (mphan12-stat660): Are quiz questions typically multiple choice and fill in missing words?
+Answer: 
 
 
 
