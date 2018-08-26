@@ -17,49 +17,46 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Structure Quiz, Problem 1]
-
+- Question (llopez37-stat660): Do we type in numbers or actual words into the boxes?
 
 
 [Course Structure Quiz, Problem 2]
-
+- Question (llopez37-stat660): If all 15 are done do we get the 12 of the 15 with the highest score taken in? 
 
 
 [Course Structure Quiz, Problem 3]
-
-
+- Question (llopez37-stat660): Same question as above will the top 12 quizzes be considered ?
 
 [Course Structure Quiz, Problem 4]
-
+- Question (llopez37-stat660): How will the teams be decided? 
 
 
 [Course Structure Quiz, Problem 5]
-
-
+- Question (llopez37-stat660): Would you recommend signing up for the SAS certification after this class?
+- Answer (llopez37-stat660) : Yes, this course aligns with the exam from SAS
 
 [Course Structure Quiz, Problem 6]
-
+- Question (llopez37-stat660): Outside of the final it seems majority of our grading is based off of participation?
 
 
 [Course Structure Quiz, Problem 7]
-
-
+- Question (llopez37-stat660): Are there any exceptions to this with students who work full time? 
+-Answer (llopez37-stat660): If we can provide medical or work related excuses.
 
 [Course Structure Quiz, Problem 8]
-
+- Question (llopez37-stat660): How often are mistakes / typos made? 
 
 
 [Course Structure Quiz, Problem 9]
-
-
+- Question (llopez37-stat660): how immediate are the responses on Slack? 
+- Answer (llopez37-stat660) : Seems to be the most immediate response 
 
 [Course Structure Quiz, Problem 10]
+- Question (llopez37-stat660): Is SAS university acceptable over SAS 9.4 free use? 
 
+[hello-world Week 1 SAS Recipe]
+- Question (llopez37-stat660): Run will output to the log only unlike proc print which will do both log and actual output? 
 
-
-[hello_world Week 1 SAS Recipe]
-
-
-
-[fizz_buzz Week 1 SAS Recipe]
-
+[fizz-buzz Week 1 SAS Recipe]
+- Question (llopez37-stat660): Is the mod function based off the same divisor method we use in arithmetic? 
 
