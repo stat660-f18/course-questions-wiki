@@ -80,4 +80,4 @@ Question (llopez37-stat660) For proc import, what would infile be used for and t
 [Week 2 SAS Recipe: bonus_advanced_recipe_for_loading_data_from_remote_Excel_file]
 
 Question (llopez37-stat660) Is it possible to set up a generic macro to upload data sets consistently without having to update the 
-location and/or parameters?
+location and parameters?
