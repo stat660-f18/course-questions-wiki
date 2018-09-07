@@ -18,37 +18,51 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Textbook Chapter 5, Problem 1]
+- Question (anguyen152-stat660): What if the variables' names are "date" ,"on", "changed", "flight" ? Should the answer "d" be correct then ?
 
 
 
 [Course Textbook Chapter 5, Problem 3]
+- Question (anguyen152-stat660): Why are quotation marks needed here ?
+- Answer (anguyen152-stat660):Because character values must be enclosed in quotation marks and must be in the same case as in the data set. 
 
 
 
 [Course Textbook Chapter 5, Problem 4]
+- Question (anguyen152-stat660): Can we sort a dataset by 2 or more variables ? 
 
 
 
 [Course Textbook Chapter 5, Problem 7]
+- Question (anguyen152-stat660): Doesn't SAS work step by step ? If step 1 fails, it still runs step 2 ? 
 
 
 
 [Course Textbook Chapter 5, Problem 9]
+- Question (anguyen152-stat660): Can we use "=" and "eq" in the same statement ? 
+- Answer (anguyen152-stat660): Yes. They both represent the same meaning 
 
 
 
 [Course Textbook Chapter 5, Problem 10]
+- Question (anguyen152-stat660): What's the PAGEBY statement used for (under PROC PRINT) ?
+- Answer (anguyen152-stat660): Control page ejects that occur before a page is full
 
 
 
 [Week 3 SAS Recipe: recipe_to_check_for_duplicates]
+- Question (anguyen152-stat660): Will the log window inform me if the dataset has duplicates or not ?
 
 
 
 [Week 3 SAS Recipe: recipe_for_sorting_data]
+- Question (anguyen152-stat660): What is the “out=” command for?
+- Answer (anguyen152-stat660): It prevents us from overriding the original data.
 
 
 
 [Week 3 SAS Recipe: recipe_for_printing_values]
+- Question (anguyen152-stat660): Can we obmit the ID statement ?
+
 
 
