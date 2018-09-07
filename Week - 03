@@ -1,0 +1,60 @@
+## Week 3 Quiz Questions and Answers
+
+In order to prepare your Week 3 Quiz submission, please edit ***this*** document to provide substantive questions for each Quiz Problem and SAS Recipe listed below, as well as answers to at least three questions raised.
+
+All edits should conform to GitHub Markdown specifications (https://guides.github.com/features/mastering-markdown/) and should be committed to a branch named "week-3" in your fork of this repo. Then, after all edits have been made/committed, your Week 3 Quiz should be submitted by initiating a pull request using
+
+- the master branch of the stat660/course_questions_wiki repo as the base fork and
+
+- the week-3 branch of your version of the repo as the head fork.
+
+The instructor will then review the pull request and make comments should further revision be needed. Then, after the contents of the pull request have been finalized without any merge conflicts, the instructor will merge the pull request.
+
+
+
+********************************************************************************
+
+
+
+[Course Textbook Chapter 5, Problem 1]
+
+- Question (llopez37-stat660) Since ID eliminates the need for the noobs option, are there other commands that would eliminate the need for certain options?
+
+[Course Textbook Chapter 5, Problem 3]
+
+- Question (llopez37-stat660) Would this be specific in the types of quotation marks we need or do we need to be consistent with each variable on quotation marks used? 
+
+- Answer (llopez37-stat660) The consensus seems to be to stay consistent with the quotation marks
+
+[Course Textbook Chapter 5, Problem 4]
+
+- Question (llopez37-stat660) Is it possible to save your out data set into a different library file? 
+
+- Answer (llopez37-stat660) Yes, it seems that once you are done you can re save your file into another working library folder.
+
+[Course Textbook Chapter 5, Problem 7]
+
+- Question (llopez37-stat660) If we had a different out for a data set after sort and forgot the by statement would proc print fail then? 
+
+[Course Textbook Chapter 5, Problem 9]
+
+- Question (llopez37-stat660) How many or conditions can we add on to a where statement? 
+
+[Course Textbook Chapter 5, Problem 10]
+
+- Question (llopez37-stat660) Is there a variation of proc print without the need for options that can print out specific results? 
+
+- Answer (llopez37-stat660) Did not find one, the options are plentiful for proc print statements. 
+
+[Week 3 SAS Recipe: recipe_to_check_for_duplicates]
+
+- Question (llopez37-stat660) Are there ways for SAS to make errors when looking for duplicates as in times where some data might seem like its a duplicate but it is just a redundent occurence? 
+
+
+[Week 3 SAS Recipe: recipe_for_sorting_data]
+
+- Question (llopez37-stat660) How granular can sorting get in regards to not only doing descending but also in order for the following variables after the by statement outside of ascending and descending? 
+
+[Week 3 SAS Recipe: recipe_for_printing_values]
+
+- Question (llopez37-stat660) Is there a way to transform the table to avoid having the district name form its own table instead of having redundent district names to explain the data? 
