@@ -220,4 +220,3 @@ run;
 - Answer(whu8-stat660):I think the answer is yes, we can call macro as many time as we want, we could also load different values to macro variables each time we call.
 - Question (llopez37-stat660) Can macros conflict with one another? 
 
-
