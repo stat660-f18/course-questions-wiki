@@ -18,29 +18,44 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Textbook Chapter 6, Problem 1]
+- Question [llopez37-stat660] For a permenant data name we use 'out='?
 
 
 
 [Course Textbook Chapter 6, Problem 2]
+- Question [llopez37-stat660] Would the same syntax be used to change the fileref or is there a seperate syntax to use?
 
 
 
 [Course Textbook Chapter 6, Problem 6]
+- Question [llopez37-stat660] Do we ignore spaces when creating the output?
+- Answer [llopez37-stat660] The spaces are created in order to help make it easily readable 
 
 
 
 [Course Textbook Chapter 6, Problem 7]
+- Question [llopez37-stat660] Is this common or would we normally do it in numerical order in order to make it simpler as it seems like this could get confusing very easily?
+- Answer [llopez37-stat660] It depends on the order you want everything in.
 
 
 
 [Course Textbook Chapter 6, Problem 8]
+- Question [llopez37-stat660] How would we go about creating the new label if we also wanted it to sum the previous input? 
 
 
 
 [Week 5 SAS Recipe: basic_recipe_for_creating_analytic_datasets]
+- Question [llopez37-stat660] is retain always for order and keep always for columns? 
+- Answer [llopez37-stat660] it seems for this case yes but in other situations it might be better to use format or length 
 
 
 
 [Week 5 SAS Recipe: adv_recipe_for_creating_analytic_datasets]
+- Question [llopez37-stat660] Why not use proc sql if it requires less code and how capable is it compared to regular SQL? 
+
+
+
+
+
 
 
