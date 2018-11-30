@@ -18,29 +18,41 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Textbook Chapter 17, Problem 1]
+- Question (jduan10-stat660): What is the default delimiter in list input.?
+- Answer (jduan10-stat660): Blank is default.
 
 
 
 [Course Textbook Chapter 17, Problem 5]
+- Question (jduan10-stat660): What is the default delimiter in list input.?
+- Answer (jduan10-stat660): Blank is default.
 
 
 
 [Course Textbook Chapter 17, Problem 7]
+- Question (jduan10-stat660): What is the default delimiter in list input.?
+- Answer (jduan10-stat660): Blank is default.
 
 
 
 [Course Textbook Chapter 17, Problem 8]
+- Question (jduan10-stat660): What is the default delimiter in list input.?
+- Answer (jduan10-stat660): Blank is default.
 
 
 
 [Course Textbook Chapter 17, Problem 9]
+- Question (jduan10-stat660): What is the default delimiter in list input.?
+- Answer (jduan10-stat660): Blank is default.
 
 
 
 [Week 13 SAS Recipe: basic_recipe_to_load_remote_delimited_file]
+- Question (jduan10-stat660): Can we download xls. file from the internet using "get" method?
 
 
 
 [Week 13 SAS Recipe: adv_recipe_to_load_remote_delimited_file]
+- Question (jduan10-stat660): How many variables can we input?
 
 
