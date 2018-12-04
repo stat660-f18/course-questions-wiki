@@ -18,32 +18,31 @@ The instructor will then review the pull request and make comments should furthe
 
 
 [Course Textbook Chapter 17, Problem 1]
-- Question (jduan10-stat660): What is the default delimiter in list input.?
-- Answer (jduan10-stat660): Blank is default.
+- Question (jduan10-stat660): What is the difference between using PROC SQL and using match-merging method to join dataset?
 
 
 
 [Course Textbook Chapter 17, Problem 5]
-- Question (jduan10-stat660): What is the default delimiter in list input.?
-- Answer (jduan10-stat660): Blank is default.
+- Question (jduan10-stat660): When using one to one reading, what will happen if the data sets contain variables that have the same names?
+- Answer (jduan10-stat660): The values that are read from the last data set overwrite the values that were read from earlier data sets.
 
 
 
 [Course Textbook Chapter 17, Problem 7]
-- Question (jduan10-stat660): What is the default delimiter in list input.?
-- Answer (jduan10-stat660): Blank is default.
+- Question (jduan10-stat660): When concatenating dataset, what determines the length of Num in Concat if length attribute is different?
+- Answer (jduan10-stat660): The length of Num in A.
 
 
 
 [Course Textbook Chapter 17, Problem 8]
-- Question (jduan10-stat660): What is the default delimiter in list input.?
-- Answer (jduan10-stat660): Blank is default.
+- Question (jduan10-stat660): In the APPEND procedure, can we use three data sets in one step?
+- Answer (jduan10-stat660): No, only two datasets can be used at one time at one step.
 
 
 
 [Course Textbook Chapter 17, Problem 9]
-- Question (jduan10-stat660): What is the default delimiter in list input.?
-- Answer (jduan10-stat660): Blank is default.
+- Question (jduan10-stat660): What is the result of using BY statement to concatenate data sets?
+- Answer (jduan10-stat660): The result is interleaving.
 
 
 
