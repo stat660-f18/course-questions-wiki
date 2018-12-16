@@ -19,6 +19,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 16, Problem 1]
 - Question (llopez37-stat660)Do we include the other variables in the keep syntax in order to allow for the if statement to go into affect? 
+- Answer (jduan10-stat660): We don't need to keep the variables if we don't want to write them.
 * Question (yli110-stat660): What types of elements can be put into an array?
 * Answer (yli110-stat660): Either numeric or characteristic, as long as all the variables in the same array have same type.
 - Question (anguyen152-stat660) : What is an "executable statement" ?
@@ -37,6 +38,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (anguyen152-stat660) : It the cases we can not define how many elements in the array, what should we put in the braces ? 
 - Answer (anguyen152-stat660) : We can put a '*'
 - Question (mphan12-stat660): How do you define the dimentions of arrays in SAS?
+- Answer (jduan10-stat660): {dimension-size(s)} specifies the number of elements in each dimension of the array.
 - Question (whu8-stat660):What's the meaning of the parameter in the braces of an ARRAY statement?
 - Answer (whu8-stat660):It indicates the number of elements in the array.
 
