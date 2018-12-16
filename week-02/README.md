@@ -52,6 +52,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (mphan12-stat660): When is a variable considered numeric?
 - Answer (mphan12-stat660): Numeric value contain only numeric values (the numerals 0 through 9, +, -, ., and E for scientific notation).  Else the variable is character.  You can also tell if the variable is numeric when the values in the column are left aligned.
 - Question (jduan10-stat660): Can a variable be both the character type and numeric type?
+- Answer (jduan10-stat660): No. A variable can only have one type.
 * Question (yli110-stat660): How does SAS treat a string of numbers if they are put into a quotation mark?
 * Answer (yli110-stat660): As character
 - Question (anguyen152-stat660):What are the differences between numeric and character variables? 
@@ -68,6 +69,7 @@ The instructor will then review the pull request and make comments should furthe
 - Answer (jduan10-stat660): No, the names cannot contain any null bytes.
 *  Question (yli110-stat660): What is a valid variable name in SAS?
 - Question (anguyen152-stat660): What makes a valid variable name in SAS ?
+- Answer (jduan10-stat660): They can be 1 to 32 characters long. They must begin with a letter (A-Z, either uppercase or lowercase) or an underscore. 
 - Question (whu8-stat660): What are the requirements for variable names in SAS?
 - Question(llopez37-stat660) Would this cause any error with missing data?
 
