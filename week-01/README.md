@@ -63,6 +63,7 @@ The instructor will then review the pull request and make comments should furthe
 * Question (yli110-stat660): Which is the github workflow you use to work on an existing repo on Github?
 * Answer (yli110-stat660): fork and branch
 * Question (mphan12-stat660): How are teams selected?
+* Answer (jduan10-stat660): Teammates are selected by professor, according to the topic we chose.
 * Question (whu8-stat660): Where can we find information about the projects?
 - Question (anguyen152-stat660):: Should I need to form the team right now ? How many people can make a team ?
 - Question (flee11-stat660): Will there be report writing or presentation at the end of the two team-based projects?
@@ -134,6 +135,7 @@ The instructor will then review the pull request and make comments should furthe
 [Course Structure Quiz, Problem 10]
 * Question (yli110-stat660): Do you get notification in your email that connects to github when review comments come back?
 * Question (mphan12-stat660): Why is it necessary to check GitHub daily?
+*	Answer (jduan10-stat660): By doing that we can see the updates from our teachers and teammates.
 * Question (whu8-stat660): Do we need to check Blackboard daily? Does all instructions are posted only in Blackboard? 
 - Question (anguyen152-stat660): Why should I check Github daily ?
 - Question (flee11-stat660): Will we be able to see the questions our classmates created for each quiz? Will some of our questions get answered by the professor or classmates?
