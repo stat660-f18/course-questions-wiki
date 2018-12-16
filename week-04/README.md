@@ -39,6 +39,7 @@ RUN;
 - Question (mphan12-stat660): What happens when the library option is omitted from PROC FORMAT?
 - Answer (mphan12-stat660): If you omit the library option, then formats and informats are stored in the Work Formats catalog.
 - Question (anguyen152-stat660): Do we always have to declare the library name when using the "PROC FORMAT" statement ? 
+- Answer(jduan-stat660): No, only when we want to store it permanently in a "format catalog".
 - Question (llopez37-stat660) Would this be the same if the format was within a data step in terms of amount of semi colons used?
 - Answer (llopez37-stat660) Yes, it holds true whether its just a format statement or within a data or proc step.
 * Question (yli110-stat660): How does VALUE range specifies character values?
@@ -65,6 +66,7 @@ RUN;
 - Question (mphan12-stat660): How many characters can be used in a LABEL?
 - Answer (mphan12-stat660): 32,767
 - Question (anguyen152-stat660): What is a "label" in SAS ?
+- Answer(jduan-stat660): It can be seen as a name for the variable.
 - Question (llopez37-stat660) Is there ever a situation in which 256 characters would be required if so then why?
 * Question (yli110-stat660): What is the length limit for a label in quotation marks?
 * Answer (yli110-stat660): 256
