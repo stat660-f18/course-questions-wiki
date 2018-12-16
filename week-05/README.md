@@ -73,6 +73,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (anguyen152-stat660):  What's the dollar signs ($) used for in "input" statement ? 
 - Answer(anguyen152-stat660): The dollar sign ($) identifies the variable type as character (if the variable is numeric, then nothing appears here).
 * Question (yli110-stat660): What is the purpose of INPUT statement when you read raw data set into a SAS data set?
+  - Answer(jduan10-stat660):The INPUT statement describes the fields of raw data to be read and placed into the SAS data set.
   - Question (llopez37-stat660) Is this common or would we normally do it in numerical order in order to make it simpler as it seems like this could get confusing very easily?
   - Answer (llopez37-stat660) It depends on the order you want the variables in
 
@@ -84,6 +85,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (whu8-stat660): How to redefine the values of variables?
 - Answer(whu8-stat660): In an assignment statement, the variable name is specified on the left side of the equal sign and an appropriate expression including the variable name on the right side of the equal sign.
 - Question (jduan10-stat660): What will the assignment statement do if the arithmetic operator is missing?
+- Answer (jduan10-stat660):When a value that is used with an arithmetic operator is missing, the result of the expression is missing.
 - Question (anguyen152-stat660): Do we need any SAS statement to redefine the values like that ? 
 * Question (yli110-stat660): How do you redefine a variable in DATA step?
 - Question (llopez37-stat660)How would we go about creating the new label if we also wanted it to sum the previous input?
