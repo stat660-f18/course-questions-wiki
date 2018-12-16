@@ -19,6 +19,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 14, Problem 1]
 - Question (mphan12-stat660): How do you calculate the average in SQL?
+- Answer (jduan10-stat660): Use SELECT AVG(column name) syntax.
 - Question (anguyen152-stat660) :Can we write mean(Var1, Var2, Var3, Var4) instead of mean(of var1-var4)? 
 - Answer (anguyen152-stat660) :Yes. We can. Look at the MEAN syntax : MEAN(argument-1<,...argument-n>)
 - Question (llopez37-stat660) What if the variables are not sequential such as this example?
@@ -36,6 +37,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (mphan12-stat660): Can calculations be done on character variables?
 - Answer (mphan12-stat660): Yes, by default, SAS tries to convert the variable values to numeric. Whenever data is automatically converted, a message is written to the SAS log stating that the conversion has occurred.
 - Question (anguyen152-stat660) :When will SAS automatically convert characters to numeric values ? 
+- Answer (jduan10-stat660): When the character variable multiples by numeric value.
 - Question (llopez37-stat660) How does this work with multiple character variables, even with ones that have no numeric value within it?
 * Question (yli110-stat660): What happens when SAS automatically converts a character variable into numeric?
 - Question (jduan10-stat660): Whats the difference between INPUT and PUT function?
