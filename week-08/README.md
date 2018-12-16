@@ -33,6 +33,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 12, Problem 3]
 - Question (llopez37-stat660) What is the purpose of the first and last variable if they are temp?
+- Answer (jduan10-stat660): FIRST.variable has a value 1 for the first observation in the by group and 0 for all other observations in the by group. LAST.variable has a value 1 for the last observation in the by group and 0 for all other observations in the by group.
 * Question (yli110-stat660): How do you write a single observation out into a new data set?
 * Answer (yli110-stat660): by using POINT= option with OUTPUT and STOP statements.
 
@@ -48,6 +49,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 12, Problem 8]
 - Question (llopez37-stat660) If we had added first as well would we have gotten two observations? 
+- Answer (jduan10-stat660): Yes. There will be two observations.
 * Question (yli110-stat660): What does the pdv look like at the compilation phase at the beginning of DATA step?
 
 
