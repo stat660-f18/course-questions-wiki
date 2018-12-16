@@ -31,12 +31,14 @@ The instructor will then review the pull request and make comments should furthe
 - Answer (jduan10-stat660): because the values can be read as standard character values and are located in fixed columns.
 - Question (mphan12-stat660):  What are the different input style?
 * Question (yli110-stat660): What kind of input should you use for free-format data?
+- Answer (jduan10-stat660): The PUT statement can used with list output to create free-format raw data files.
 * Answer (yli110-stat660): list input.
 
 
 
 [Course Textbook Chapter 18, Problem 4]
 - Question (jduan10-stat660): Does “length” step need to follow the “infile” step?
+- Answer (jduan10-stat660):  Yes. Length step usually follows the Infile step.
 - Question (mphan12-stat660):  What is the difference between input FirstName $ 1-4 and input FirstName $?
 * Question (yli110-stat660): How do you use list input to read raw data into SAS?
 
