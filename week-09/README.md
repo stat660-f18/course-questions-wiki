@@ -35,6 +35,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (mphan12-stat660): What is interleaving?
 - Answer (mphan12-stat660): Intersperses observations in order from two or more data sets, based on one or more common variables. It uses the SET and BY statement.  When you use a BY statement to concatenate data sets, the result is interleaving. To interleave SAS data sets, specify a list of data set names in the SET statement, and specify one or more BY variables in the BY statement.
 * Question (yli110-stat660): What is the difference between concatenating and interleaving?
+- Answer (jduan10-stat660): Concatenating appends the observations from one data set to another data set, while interleaving intersperses observations from two or more data sets, based on one or more common variables.
 - Question (llopez37-stat660) In order to preserve all observations is the by statement necessary?
 - Answer (llopez37-stat660) It seems that the by statement preserves all observations in that variable
 - Question (whu8-stat660):What's the use of BY statement in interleaving combining?
@@ -67,6 +68,7 @@ The instructor will then review the pull request and make comments should furthe
 * Answer (yli110-stat660): Basically, SET stacks two data sets vertically, and MERGE combines two data sets horizontally.
 - Question (llopez37-stat660) Is this due to the fact that there are multiple ID variables with observation 2?
 - Question (whu8-stat660):What's the difference between concatenating and merging data sets?
+- Answer (jduan10-stat660):Match-merging combines observations from two or more data sets into a single observation in a new data set according to the values of a common variable, while concatenating appends the observations from one data set to another data set.
 - Question (anguyen152-stat660) : When should we use SET and when should we use MERGE ? 
 - Question (jduan10-stat660): How’s the length of datasets be determined when concatenates data sets?
 
