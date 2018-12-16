@@ -39,6 +39,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (whu8-stat660):What determins the number of iterations?
 - Answer (whu8-stat660):The DO statement's stop valued determins the number of iterations.
 - Question (anguyen152-stat660) : Why dont we need the "BY" increment statement sometimes in our DO loops ? 
+- Answer (jduan10-stat660): BY increment specifies a positive or negative number (or an expression that yields a number) to control the incrementing of index-variable. 
 - Question (jduan10-stat660): Does DO Loop step read data from external sources?
 - Answer (jduan10-stat660): DO Loop step does not read data from an external source.
 * Question (yli110-stat660): How is the number of iterations determined in the DO statement?
@@ -66,6 +67,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (anguyen152-stat660) : Why "do year=1990 to 2004;" but the stored value of year is 2005 ? 
 - Answer (anguyen152-stat660) : At the end of the 15th iteration of the DO loop, the value for Year is incremented to 2005. Because this value exceeds the stop value, the DO loop ends. At the bottom of the DATA step, the current values are written to the data set.
 - Question (jduan10-stat660): What value does the sum statement store?
+- Answer (jduan10-stat660): The SUM statement stores the total value of the variables.
 * Question (yli110-stat660): How does DO loop stopy?
 * Answer (yli110-stat660): When the index variable has a value that exceeds the stop value in do loop, the loop will stop. However the index variable will be stored as it's latest number.
 - Question (llopez37-stat660) would the output by year always be plus one? 
