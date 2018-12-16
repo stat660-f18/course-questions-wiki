@@ -19,6 +19,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 5, Problem 1]
 - Question (mphan12-stat660): Why is the label option turned on, yet the columns are still column names rather than label names in the table?
+- Answer(jduan10-stat660): We need to write LABEL statement in the data step.
 - Question (yli110-stat660): In the proc print procedure, what is the difference between ID statement and VAR statement?
 - Answer (yli110-stat660): VAR lists the variables of the data set to be printed with obs (row number) at the far left, whereas ID lists the variables showing on the far left instead of obs.
 - Question (whu8-stat660): Is observation number a default column in SAS?
@@ -68,6 +69,7 @@ The instructor will then review the pull request and make comments should furthe
  - - - where sex='F';
 - - run;
 - Question (yli110-stat660): What happens if there's no BY statement in a PROC SORT step?
+- Answer (jduan10-stat660): The dataset can not be sorted sucessfully because the criteria are missing.
 - Question (whu8-stat660):Is 'by' statement necessary when using sort function?
 - Answer (whu8-stat660): Yes. 
 - Question (jduan10-stat660): How to remove the Obs column?
