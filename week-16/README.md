@@ -42,6 +42,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 20, Problem 5]
 * Question (yli110-stat660): What is the difference between #n, @n and +n?
+* Answer (jduan10-stat669): #n line pointer control advances the input pointer to the second record to read the values for Inventory and Type. @n and +n are column pointer controls.
 
 
 
@@ -52,7 +53,7 @@ The instructor will then review the pull request and make comments should furthe
 
 [Course Textbook Chapter 20, Problem 7]
 * Question (yli110-stat660): When do you use the & modifier for modified list input?
-
+* Answer (jduan10-stat669): When we need to read character values that contain embedded blanks.
 
 
 [Course Textbook Chapter 20, Problem 8]
