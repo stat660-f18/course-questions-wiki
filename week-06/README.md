@@ -40,6 +40,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (mphan12-stat660): What errors are detected during the compilation phase?
 - Answer (mphan12-stat660): Misspelled keywords and data set names, unbalanced quotation marks, and invalid options are detected during the compilation phase.
 * Question (yli110-stat660): What are common syntax errors?
+- Answer (jduan10-stat660): Missing RUN statement, missing semicolon, unbalanced quotation mark, etc.
 - Question (jduan10-stat660): When will the input buffer be created?
 - Answer (jduan10-stat660): The buffer is created only when the DATA step reads raw data. 
 - Question (anguyen152-stat660): Will SAS point out the exact syntax errors (if exist) for me ?  
@@ -56,6 +57,7 @@ The instructor will then review the pull request and make comments should furthe
 * Question (yli110-stat660): How do you compare DATA step and loop?
 * Answer (yli110-stat660): They are quite similar to some extents, as both will keep going unless running into a stop mark.
 - Question (jduan10-stat660): Does DATA step create observation one by one or all at a time?
+- Answer (jduan10-stat660): DATA step creates observation one by one.
 - Question (anguyen152-stat660): How does SAS process records with missing values ? 
 - Answer (anguyen152-stat660): SAS assigns missing values to prevent problems from arising. If you use a missing value in an arithmetic calculation, SAS sets the result of that calculation to missing. Then, if you use that result in another calculation, the next result is also missing. This action is called propagation of missing values. SAS prints notes in the log to notify you which arithmetic expressions have missing values and when they were created; however, processing continues.
 
