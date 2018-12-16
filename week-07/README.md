@@ -24,6 +24,7 @@ The instructor will then review the pull request and make comments should furthe
 - Answer(whu8-stat660): Yes,it will.
 - Question(llopez37-stat660) Will the labels and formats always be determined upon the last one in the program? 
 - Question (anguyen152-stat660): What types of formats can we assign to a variable in SAS ? 
+- Answer(jduan10-stat660): It includes COMMA6, COMMA7, COMMA10, etc.,and we can define our own format.
 - Question (jduan10-stat660): If we assign temporary labels or formats within a PROC step, will they override any permanent labels or formats during the DATA step?
 * Question (yli110-stat660): What is the difference between assigning labels and formats temporarily and permanently?
 * Answer (yli110-stat660): Temporary labels and formats are applicable only for the duration of the step. If you assign temporary labels or formats with a PROC step, they override any permanent labels and formats that were assigned during the DATA step.
@@ -53,6 +54,7 @@ The instructor will then review the pull request and make comments should furthe
 - Answer(whu8-stat660): In this case, the length of the variable's first reference in the DATA step will determin the length.
 - Question(llopez37-stat660) Can you set up different formats and lengths for specific variable names? 
 - Question (anguyen152-stat660): Are the "Length" values numeric all the time ? 
+- Answer(jduan10-stat660): We usually write the number of bytes in the LENGTH statement.
 - Question (jduan10-stat660): Can we use LENGTH statement after the first value is referenced in the DATA step?
 * Question (yli110-stat660): What are the possilbe ways to determine the length of a new variable?
 
