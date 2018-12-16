@@ -62,6 +62,7 @@ The instructor will then review the pull request and make comments should furthe
 * Answer(yli110-stat660): First to read data in, second it removes any special signs like dollar sign, comma, percent et al.
 [Course Textbook Chapter 17, Problem 8] 
 - Question (llopez37-stat660) What syntax would we use to sort the data? 
+- Answer (jduan10-stat660): We can use PROC SORT to sort the data.
 - Question (whu8-stat660):What's the use of COMMAw.d informat?
 - Answer (whu8-stat660):The COMMAw.d informat strips out special characters, such as commas,dollar signs, and percent signs, from numeric data and stores only numeric values in a SAS data set.
 - Question (mphan12-stat660): What does the COMMAw.d function do?
@@ -73,6 +74,7 @@ The instructor will then review the pull request and make comments should furthe
 - Question (anguyen152-stat660) : What should be noted when using COMMAw.d function ? 
 - Answer (anguyen152-stat660) : A period should always follow the "w."
 * Question(yli110-stat660): What's the order of variables that SAS reads from the raw files?
+- Answer (jduan10-stat660) : Input values can be read in any order, regardless of their position in the record.
 - Question (llopez37-stat660) why do some observations appear such as ( . ) veruss a blank statement?
 - Answer (llopez37-stat660) This is based off of character and numeric variable. 
 - Question (whu8-stat660):How to use the w.d informat to read standard numeric data?
